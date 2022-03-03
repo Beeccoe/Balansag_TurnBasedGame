@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/bl0" android:duration="20" />
+    <item android:drawable="@drawable/bl1" android:duration="20" />
+    <item android:drawable="@drawable/bl2" android:duration="20" />
+    <item android:drawable="@drawable/bl3" android:duration="20" />
+    <item android:drawable="@drawable/bl4" android:duration="20" />
+    <item android:drawable="@drawable/bl5" android:duration="20" />
+    <item android:drawable="@drawable/bl6" android:duration="20" />
+</animation-list>
